@@ -1,0 +1,17 @@
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow_meow_gang_u_prodavnici.Form1.resources
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\bin\Debug\net7.0-windows\meow meow gang u prodavnici.exe
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\bin\Debug\net7.0-windows\meow meow gang u prodavnici.deps.json
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\bin\Debug\net7.0-windows\meow meow gang u prodavnici.runtimeconfig.json
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\bin\Debug\net7.0-windows\meow meow gang u prodavnici.dll
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\bin\Debug\net7.0-windows\meow meow gang u prodavnici.pdb
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.dll
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\refint\meow meow gang u prodavnici.dll
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.pdb
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\meow meow gang u prodavnici.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\meow meow gang u prodavnici\meow meow gang u prodavnici\obj\Debug\net7.0-windows\ref\meow meow gang u prodavnici.dll
